@@ -1,0 +1,14 @@
+{
+  "client": 1000,
+  "groups": [
+    "PHGROUP01",
+    "PHGROUP02"
+  ],
+  "users": [
+    "PH01",
+    "PH02",
+    "PH03",
+    "PH04",
+    "PH05"
+  ]
+}

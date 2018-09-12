@@ -1,0 +1,12 @@
+{
+  "connection": {
+    "host": "localhost",
+    "port": 2217,
+    "client": 0,
+    "user": "user",
+    "password": "password"
+  },
+  "options": {
+    "inputFileName": "uc4.input.json"
+  }
+}
