@@ -8,7 +8,8 @@ Provide a list of groups.
 **Execution**
 
 java -jar uc4_addUserToGroup
-java -jar uc4_addUserToGroup uc4.config.json
+
+java -jar uc4_addUserToGroup ../config/uc4.config.json
 
 **Config - uc4.config.json**
 ```
