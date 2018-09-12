@@ -16,3 +16,6 @@ include 'services:webservice'
 */
 
 rootProject.name = 'uc4_addUserToGroup'
+
+include ':uc4-sdk'
+project(':uc4-sdk').projectDir = new File(settingsDir, '../uc4-sdk')

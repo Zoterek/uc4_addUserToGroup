@@ -21,7 +21,7 @@ java -jar uc4_addUserToGroup uc4.config.json
     "password": "password"
   },
   "options": {
-    "inputFileName": "../config/uc4.input.json"
+    "inputFileName": "uc4.input.json"
   }
 }
 ```
